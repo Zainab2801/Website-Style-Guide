@@ -1,0 +1,23 @@
+# Website Style Guide
+
+This project is a basic website style guide that demonstrates the color palette and typography choices for a web project.
+
+## Files
+
+- [index.html](index.html): The main HTML file displaying the style guide.
+- [styles.css](styles.css): The CSS file containing styles for colors, typography, and layout.
+
+## Features
+
+- **Color Palette:** Shows primary, secondary, and accent colors with usage notes.
+- **Typography:** Demonstrates font families and example text.
+- **Font Sizes & Weights:** Lists heading and paragraph styles with font weights.
+
+## Usage
+
+Open `index.html` in your web browser to view the style guide.
+
+## Customization
+
+- Edit `styles.css` to change colors, fonts, or layout.
+- Update `index.html` to add more style examples or sections.

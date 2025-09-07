@@ -1,0 +1,78 @@
+/* Jumbotron Section */
+.jumbotron {
+    background-color: white;
+    border: 1px solid #20B2AA;
+    border-radius: 5px;
+    padding: 40px;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+
+/* Shared Color Box Styles */
+.color-box {
+    display: inline-block;
+    width: 300px;
+    height: 120px;
+    margin-right: 10px;
+    padding: 10px;
+    border-radius: 20%;
+    text-align: center;
+    line-height: 100px;
+    font-weight: bold;
+    font-size: 18px;
+    vertical-align: middle;
+}
+
+/* Individual Color Styles */
+.color-primary { background-color: #00FFFF; border: 1px solid #00FFFF; color: #000; }
+.color-secondary { background-color: #F0E68C; border: 1px solid #F0E68C; color: #000; }
+.color-hover { background-color: #008B8B; border: 1px solid #008B8B; color: #F8F8FF; }
+.color-background { background-color: #6495ED; border: 1px solid #6495ED; color: #F8F8FF; }
+.color-text { background-color: #000000; border: 1px solid #000000; color: #F8F8FF; }
+.color-border { background-color: #20B2AA; border: 1px solid #20B2AA; color: #F8F8FF; }
+
+/* List Styles */
+li {
+    margin-bottom: 10px;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.5;
+    text-transform: none;
+    display: inline-block;
+    color: #000;
+}
+
+/* Typography Section */
+.primary {
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+}
+.secondary {
+    font-family: 'Libertinus Serif Display', serif;
+    font-size: 16px;
+}
+.tertiary {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+}
+
+/* Heading Styles */
+.Heading {
+    font-family: 'Playfair Display', serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.5;
+}
+.Subheading {
+    font-family: 'Libertinus Serif Display', serif;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 1.5;
+}
+.Paragraph {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+}
